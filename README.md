@@ -14,7 +14,7 @@ Application to maintain your Contacks
 - Open a new terminal.
 - If you dont have node `v14.17.0` installed run `nvm install 14.17.0`
 - Run the corect Node version by running `nvm run 14.17.0` in your terminal
-- If you dont have quasar installed on you magine run `npm install -g @quasar/cli`
+- If you dont have quasar installed run `npm install -g @quasar/cli`
 - Run `npm install` to Install the dependencies
 - Run `quasar dev` to start the application in developer mode, to build for production run `quasar build`
 
